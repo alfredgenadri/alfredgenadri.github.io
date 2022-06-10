@@ -1,0 +1,23 @@
+
+  .main-img {
+    background-image: url('assets/main.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+  }
+
+  .navbar .nav-link {
+    color: #fff !important;
+  }
+
+  .img-responsive {
+        height: auto;
+        width: auto;
+        max-height: 30px;
+        max-width: 250px;
+  }
+
+  .main-font {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
